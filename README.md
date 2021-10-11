@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Neste trabalho apresentamos dois projetos iguais, neles podemos observar um comparativo. O primeiro utiliza o Design Pattern Method Factory, enquanto o outro é um projeto sem um 
+Neste trabalho apresentamos dois projetos iguais, neles podemos observar um comparativo. O primeiro utiliza o Design Pattern Factory Method, enquanto o outro é um projeto sem um 
 padrão.
 
 O que são Design Patterns? 
