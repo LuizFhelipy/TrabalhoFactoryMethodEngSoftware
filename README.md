@@ -2,8 +2,12 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Neste trabalho apresentamos dois projetos iguais, neles podemos observar um comparativo. O primeiro utiliza o Design Pattern Method Factory enquanto o outro é um projeto sem um 
+Neste trabalho apresentamos dois projetos iguais, neles podemos observar um comparativo. O primeiro utiliza o Design Pattern Method Factory, enquanto o outro é um projeto sem um 
 padrão.
+
+O que são Design Patterns? 
+
+Design Patterns ou em português padrões de projetos, são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software. Sendo uma definição de alto nível de como um problema comum pode ser solucionado.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
